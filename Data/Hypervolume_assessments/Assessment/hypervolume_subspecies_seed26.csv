@@ -1,0 +1,6 @@
+index,value,set
+jaccard,0.008987187315312738,Subspecies
+sorensen,0.017814274409619843,Subspecies
+frac_unique_1,0.9869149953147467,Subspecies
+frac_unique_2,0.9721030088669153,Subspecies
+centroid_distance,2.5656668262386906,Subspecies
