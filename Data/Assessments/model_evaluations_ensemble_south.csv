@@ -1,0 +1,6 @@
+algorithm,fold,TSS,AUC,taxon
+EMwmeanByTSS,RUN1,0.888,0.968,Salamandra_atra_south
+EMwmeanByTSS,RUN2,0.939,0.981,Salamandra_atra_south
+EMwmeanByTSS,RUN3,0.918,0.986,Salamandra_atra_south
+EMwmeanByTSS,RUN4,0.995,0.995,Salamandra_atra_south
+EMwmeanByTSS,RUN5,0.984,0.994,Salamandra_atra_south

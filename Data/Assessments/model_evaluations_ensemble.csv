@@ -1,0 +1,6 @@
+algorithm,fold,TSS,AUC,taxon
+EMwmeanByTSS,RUN1,0.796,0.952,Salamandra_atra
+EMwmeanByTSS,RUN2,0.897,0.977,Salamandra_atra
+EMwmeanByTSS,RUN3,0.824,0.951,Salamandra_atra
+EMwmeanByTSS,RUN4,0.874,0.966,Salamandra_atra
+EMwmeanByTSS,RUN5,0.896,0.973,Salamandra_atra

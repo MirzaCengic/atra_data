@@ -1,0 +1,6 @@
+index,value,set
+jaccard,0.21348567509305413,spatial_fold5
+sorensen,0.3518552867576015,spatial_fold5
+frac_unique_1,0.7428398222858873,spatial_fold5
+frac_unique_2,0.44306078338798194,spatial_fold5
+centroid_distance,1.0742025114429616,spatial_fold5
